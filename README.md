@@ -1,4 +1,11 @@
-# HeartFailurePrediction
-Cardiovascular disorders(CVDs) are a common cause of heart failure. People who have cardiovascular disease or are at high cardiovascular risk due to one or more risk factors such as hypertension, diabetes, hyperlipidemia, or previously existing disease require early detection and management, which a machine learning model can provide.
 
-I have predicted Cardiovascular disorders (CVDs) — (binary: “1”, means “There is a heart failure”, “0” means “Normal”) in this project through Machine Learning Techniques.
+
+# Predicting Cardiovascular Disorders (CVDs) Using Machine Learning
+
+Cardiovascular disorders (CVDs) are a significant cause of heart failure, affecting individuals with conditions such as hypertension, diabetes, and hyperlipidemia. Early detection and management are crucial for improving patient outcomes. This project aims to predict CVDs using machine learning techniques.
+
+## About the Project
+
+This project focuses on developing a predictive model for Cardiovascular disorders (CVDs) based on various risk factors and health data. The goal is to classify individuals into two categories:
+- `1`: Indicates the presence of heart failure (positive for CVDs).
+- `0`: Indicates no heart failure (normal).
